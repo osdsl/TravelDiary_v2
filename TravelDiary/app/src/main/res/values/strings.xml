@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TravelDiary</string>
+    <string name="no_notes">Заметки не найдены!</string>
+    <string name="load_error">Ошибка загрузки БД!</string>
+    <string name="load_error_details">Ошибка: %s</string>
+</resources>
